@@ -69,10 +69,10 @@ This relationship allowed the dashboard to dynamically display car images and re
 ## 🖼️ Preview
 
 ### 🌍 BMW Sales Overview
-![BMW Sales Performance](./images/Screenshot_1.png)
+![BMW Sales Performance](Screenshot 2025-10-27 131218.png)
 
 ### 🚘 Model Performance
-![Model Performance](./images/Screenshot_2.png)
+![Model Performance](Screenshot 2025-10-27 131228.png)
 
 ---
 
